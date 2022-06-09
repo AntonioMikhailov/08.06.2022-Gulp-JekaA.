@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.no-webp body{
+  background: url("../img/image.jpg") 0 0 no-repeat; }
+
+body {
+  background-color: rgb(138, 182, 136);
+  /*дальше scss */
+}
+
+body span {
+  color: rgb(145, 222, 164);
+}
+
+.webp body{ background: url(../img/image.webp) 0 0 no-repeat; }
